@@ -1,0 +1,1 @@
+Este é um conversor de temperaturas no qual são convertidas temperaturas em fahrenheit e kelvin para Celsius.
